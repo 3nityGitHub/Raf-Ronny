@@ -1,0 +1,43 @@
+html, body{
+  text-align: center;
+  background-color: #c4bec1;
+  max-width: 1500px;
+}
+
+#navbar{
+  background-color: skyblue;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 10%;
+  padding-top: 20px;
+}
+
+nav ul{
+  list-style: none;
+  text-align: right;
+  }
+
+nav li a{
+  text-decoration: none;
+  color: black;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 1.3em;
+  font-weight: 700;
+  letter-spacing: 2px;
+  }
+
+li a:visited{
+  color: white;
+}
+nav ul li {
+  display: inline-block;
+}
+
+@media only screen and (max-width: 815px) {
+    /* For mobile phones: */
+
+  #projects{
+    height: 1000px;
+  }}
