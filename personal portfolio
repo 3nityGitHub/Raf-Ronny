@@ -7,8 +7,9 @@
   <header>
     <nav>
       <ul>
-        <li><a href="#projects">Welcome Section</a></li>
+        <li><a href="#welcome-section">Welcome Section</a></li>
         <li><a href="#projects">Projects</a></li>
+        <li><a href="https://github.com/roncortez">Github Profile</a></li>
       </ul>
     </nav>  
   </header>
@@ -19,6 +20,5 @@
 Hello World , we are software developers!!!
     <script  src="js/index.js"></script>
     
-
   </body>
 </html>
