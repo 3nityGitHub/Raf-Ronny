@@ -34,8 +34,11 @@ li a:visited{
 nav ul li {
   display: inline-block;
 }
+h1{
+  background-color: black;
+}
 
-@media only screen and (max-width: 815px) {
+@media only screen and (max-width: 376px) {
     /* For mobile phones: */
 
   #projects{
